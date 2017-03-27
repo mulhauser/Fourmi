@@ -12,7 +12,7 @@ public class Terrain extends JPanel
     private boolean isRandomlyGenerated;
 
     // nombre de fourmis dans la fourmillière
-    private final static int NUMER_OF_ANTS = 5; 
+    private final static int NUMER_OF_ANTS = 50; 
     
     // nombre de cases nourriture initialement dans le cas 
     // ou génération aléatoire de terrain

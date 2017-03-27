@@ -21,7 +21,7 @@ public class ForAnt
 		
 	while(testLoop)
 	    {
-		try {Thread.sleep(50);}
+		try {Thread.sleep(10);}
 		catch(InterruptedException e) 
 		    {System.out.println("Sleep interrupted:"+e);}
 		if(frame.action()!=0)
